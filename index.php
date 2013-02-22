@@ -35,7 +35,7 @@
 
       <header>
         <h3 class="muted">Online Book Sales</h3>
-		<div class="head-sub">
+		<div class="head-sub pull-right">
 			<p>
 			login / Register
 			</p>
