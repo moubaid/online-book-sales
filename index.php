@@ -35,16 +35,21 @@
 
       <header>
         <h3 class="muted">Online Book Sales</h3>
-        <div class="navbar">
-          <div class="navbar-inner">
-            <div class="container">
+		<div class="head-sub">
+			<p>
+			login / Register
+			</p>
+		</div>
+        <div class="navbar navbar-inner">
               <ul class="nav">
                 <li class="active"><a href="#">Home</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
               </ul>
-            </div>
-          </div>
+			  <div class="input-append pull-right">
+				<input class="span2" id="appendedInputButtons" type="text">
+				<button class="btn" type="button">Search</button>
+			</div>
         </div><!-- /.navbar -->
       </header>
 
