@@ -35,9 +35,9 @@
 
       <header>
         <h3 class="muted">Online Book Sales</h3>
-		<div class="head-sub pull-right">
+		<div class="main-link pull-right">
 			<p>
-			login / Register
+			<a href="#">login</a> / <a href="#">Register</a>
 			</p>
 		</div>
         <div class="navbar navbar-inner">
@@ -52,39 +52,162 @@
 			</div>
         </div><!-- /.navbar -->
       </header>
-
-      <!-- Jumbotron -->
-      <div class="jumbotron">
-        <h1>Marketing stuff!</h1>
-        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <a class="btn btn-large btn-success" href="#">Get started today</a>
-      </div>
-
       <hr>
 
       <!-- Example row of columns -->
-      <div class="row-fluid">
-        <div class="span4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-        </div>
-        <div class="span4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-       </div>
-        <div class="span4">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-        </div>
-      </div>
+	  <div class="sub-heading">
+	  Top New Releases in Books <a href="#">(view more)</a>
+	  </div>
+	  <hr>
+		<div class="row-fluid">
+            <ul class="thumbnails">
+              <li class="span3">
+                <div class="thumbnail">
+                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
+                  <div class="caption">
+                    <h3>Book Name</h3>
+                    <p>Book Description</p>
+                    <p><a href="#" class="btn">More Details</a></p>
+                  </div>
+                </div>
+              </li>
+			  <li class="span3">
+                <div class="thumbnail">
+                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
+                  <div class="caption">
+                    <h3>Book Name</h3>
+                    <p>Book Description</p>
+                    <p><a href="#" class="btn">More Details</a></p>
+                  </div>
+                </div>
+              </li>
+              <li class="span3">
+                <div class="thumbnail">
+                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
+                  <div class="caption">
+                    <h3>Book Name</h3>
+                    <p>Book Description</p>
+                    <p><a href="#" class="btn">More Details</a></p>
+                  </div>
+                </div>
+              </li>
+              <li class="span3">
+                <div class="thumbnail">
+                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
+                  <div class="caption">
+                    <h3>Book Name</h3>
+                    <p>Book Description</p>
+                    <p><a href="#" class="btn">More Details</a></p>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+		  
+		  <hr>
+		  <div class="sub-heading">
+	  Bestselling Books <a href="#">(view more)</a>
+	  </div>
+	  <hr>
+		<div class="row-fluid">
+            <ul class="thumbnails">
+              <li class="span3">
+                <div class="thumbnail">
+                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
+                  <div class="caption">
+                    <h3>Book Name</h3>
+                    <p>Book Description</p>
+                    <p><a href="#" class="btn">More Details</a></p>
+                  </div>
+                </div>
+              </li>
+			  <li class="span3">
+                <div class="thumbnail">
+                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
+                  <div class="caption">
+                    <h3>Book Name</h3>
+                    <p>Book Description</p>
+                    <p><a href="#" class="btn">More Details</a></p>
+                  </div>
+                </div>
+              </li>
+              <li class="span3">
+                <div class="thumbnail">
+                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
+                  <div class="caption">
+                    <h3>Book Name</h3>
+                    <p>Book Description</p>
+                    <p><a href="#" class="btn">More Details</a></p>
+                  </div>
+                </div>
+              </li>
+              <li class="span3">
+                <div class="thumbnail">
+                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
+                  <div class="caption">
+                    <h3>Book Name</h3>
+                    <p>Book Description</p>
+                    <p><a href="#" class="btn">More Details</a></p>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+		  
+		  <hr>
+		  <div class="sub-heading">
+	  Special Offer <a href="#">(view more)</a>
+	  </div>
+	  <hr>
+		<div class="row-fluid">
+            <ul class="thumbnails">
+              <li class="span3">
+                <div class="thumbnail">
+                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
+                  <div class="caption">
+                    <h3>Book Name</h3>
+                    <p>Book Description</p>
+                    <p><a href="#" class="btn">More Details</a></p>
+                  </div>
+                </div>
+              </li>
+			  <li class="span3">
+                <div class="thumbnail">
+                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
+                  <div class="caption">
+                    <h3>Book Name</h3>
+                    <p>Book Description</p>
+                    <p><a href="#" class="btn">More Details</a></p>
+                  </div>
+                </div>
+              </li>
+              <li class="span3">
+                <div class="thumbnail">
+                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
+                  <div class="caption">
+                    <h3>Book Name</h3>
+                    <p>Book Description</p>
+                    <p><a href="#" class="btn">More Details</a></p>
+                  </div>
+                </div>
+              </li>
+              <li class="span3">
+                <div class="thumbnail">
+                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
+                  <div class="caption">
+                    <h3>Book Name</h3>
+                    <p>Book Description</p>
+                    <p><a href="#" class="btn">More Details</a></p>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
 
       <hr>
 
       <div class="footer">
-        <p>&copy; Company 2013</p>
+        <p>&copy; Online Book Sales 2013</p>
       </div>
 
     </div> <!-- /container -->
