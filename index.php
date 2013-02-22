@@ -37,14 +37,14 @@
         <h3 class="muted">Online Book Sales</h3>
 		<div class="main-link pull-right">
 			<p>
-			<a href="#">login</a> / <a href="#">Register</a>
+			<a href="login.php">login</a> / <a href="register.php">Register</a>
 			</p>
 		</div>
         <div class="navbar navbar-inner">
               <ul class="nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
+                <li class="active"><a href="index.php">Home</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
 			  <div class="input-append pull-right">
 				<input class="span2" id="appendedInputButtons" type="text">
