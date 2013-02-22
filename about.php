@@ -56,154 +56,17 @@
 
       <!-- Example row of columns -->
 	  <div class="sub-heading">
-	  Top New Releases in Books <a href="#">(view more)</a>
+	  About Us
 	  </div>
 	  <hr>
-		<div class="row-fluid">
-            <ul class="thumbnails">
-              <li class="span3">
-                <div class="thumbnail">
-                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
-                  <div class="caption">
-                    <h3>Book Name</h3>
-                    <p>Book Description</p>
-                    <p><a href="#" class="btn">More Details</a></p>
-                  </div>
-                </div>
-              </li>
-			  <li class="span3">
-                <div class="thumbnail">
-                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
-                  <div class="caption">
-                    <h3>Book Name</h3>
-                    <p>Book Description</p>
-                    <p><a href="#" class="btn">More Details</a></p>
-                  </div>
-                </div>
-              </li>
-              <li class="span3">
-                <div class="thumbnail">
-                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
-                  <div class="caption">
-                    <h3>Book Name</h3>
-                    <p>Book Description</p>
-                    <p><a href="#" class="btn">More Details</a></p>
-                  </div>
-                </div>
-              </li>
-              <li class="span3">
-                <div class="thumbnail">
-                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
-                  <div class="caption">
-                    <h3>Book Name</h3>
-                    <p>Book Description</p>
-                    <p><a href="#" class="btn">More Details</a></p>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </div>
-		  
-		  <hr>
-		  <div class="sub-heading">
-	  Bestselling Books <a href="#">(view more)</a>
-	  </div>
-	  <hr>
-		<div class="row-fluid">
-            <ul class="thumbnails">
-              <li class="span3">
-                <div class="thumbnail">
-                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
-                  <div class="caption">
-                    <h3>Book Name</h3>
-                    <p>Book Description</p>
-                    <p><a href="#" class="btn">More Details</a></p>
-                  </div>
-                </div>
-              </li>
-			  <li class="span3">
-                <div class="thumbnail">
-                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
-                  <div class="caption">
-                    <h3>Book Name</h3>
-                    <p>Book Description</p>
-                    <p><a href="#" class="btn">More Details</a></p>
-                  </div>
-                </div>
-              </li>
-              <li class="span3">
-                <div class="thumbnail">
-                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
-                  <div class="caption">
-                    <h3>Book Name</h3>
-                    <p>Book Description</p>
-                    <p><a href="#" class="btn">More Details</a></p>
-                  </div>
-                </div>
-              </li>
-              <li class="span3">
-                <div class="thumbnail">
-                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
-                  <div class="caption">
-                    <h3>Book Name</h3>
-                    <p>Book Description</p>
-                    <p><a href="#" class="btn">More Details</a></p>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </div>
-		  
-		  <hr>
-		  <div class="sub-heading">
-	  Special Offer <a href="#">(view more)</a>
-	  </div>
-	  <hr>
-		<div class="row-fluid">
-            <ul class="thumbnails">
-              <li class="span3">
-                <div class="thumbnail">
-                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
-                  <div class="caption">
-                    <h3>Book Name</h3>
-                    <p>Book Description</p>
-                    <p><a href="#" class="btn">More Details</a></p>
-                  </div>
-                </div>
-              </li>
-			  <li class="span3">
-                <div class="thumbnail">
-                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
-                  <div class="caption">
-                    <h3>Book Name</h3>
-                    <p>Book Description</p>
-                    <p><a href="#" class="btn">More Details</a></p>
-                  </div>
-                </div>
-              </li>
-              <li class="span3">
-                <div class="thumbnail">
-                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
-                  <div class="caption">
-                    <h3>Book Name</h3>
-                    <p>Book Description</p>
-                    <p><a href="#" class="btn">More Details</a></p>
-                  </div>
-                </div>
-              </li>
-              <li class="span3">
-                <div class="thumbnail">
-                  <img data-src="holder.js/300x200" alt="300x200" style="width: 300px; height: 200px;" src="images/300x200.png">
-                  <div class="caption">
-                    <h3>Book Name</h3>
-                    <p>Book Description</p>
-                    <p><a href="#" class="btn">More Details</a></p>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </div>
+	  <p>Hello!</p>
+<p>It's nice of you to take the time to get to know us better. Here are some things about us that we thought you might like to know.</p>
 
+<p>Flipkart went live in 2007 with the objective of making books easily available to anyone who had internet access. Today, we're present across various categories including movies, music, games, mobiles, cameras, computers, healthcare and personal products, home appliances and electronics, stationery, perfumes, toys, apparels, shoes – and still counting!</p>
+
+<p>Be it our path-breaking services like Cash on Delivery, a 30-day replacement policy, EMI options, free shipping - and of course the great prices that we offer, everything we do revolves around our obsession with providing our customers a memorable online shopping experience. Then there's our dedicated Flipkart delivery partners who work round the clock to personally make sure the packages reach on time.</p>
+
+<p>So it's no surprise that we're a favourite online shopping destination.</p>
       <hr>
 
       <div class="footer">
