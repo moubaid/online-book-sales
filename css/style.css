@@ -6158,3 +6158,9 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
+
+.head-sub {
+	position: absolute;
+	margin-top: -39px;
+	margin-left: 820px;
+}
