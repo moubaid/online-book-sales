@@ -37,7 +37,7 @@
         <h3 class="muted">Online Book Sales</h3>
 		<div class="main-link pull-right">
 			<p>
-			<a href="login.php">login</a> / <a href="register.php">Register</a>
+			<a href="#">login</a> / <a href="#">Register</a>
 			</p>
 		</div>
         <div class="navbar navbar-inner">
