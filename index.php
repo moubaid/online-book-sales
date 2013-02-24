@@ -34,7 +34,9 @@
     <div class="container">
 
       <header>
-        <h3 class="muted">Online Book Sales</h3>
+	  <div class="logo">
+        <img src="images/logo.png" />
+		</div>
 		<div class="main-link pull-right">
 			<p>
 			<a href="#">login</a> / <a href="#">Register</a>
