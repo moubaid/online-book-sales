@@ -6163,7 +6163,7 @@ a.badge:focus {
 
 .main-link{
 	position: absolute;
-	margin-top: -39px;
+	margin-top: -54px;
 	margin-left: 820px;
 }
 
@@ -6175,3 +6175,6 @@ a.badge:focus {
 	font-size: 14px;
 }
 
+.logo {
+height:75px;
+}
