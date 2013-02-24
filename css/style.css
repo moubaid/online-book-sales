@@ -6162,9 +6162,8 @@ a.badge:focus {
 }
 
 .main-link{
-	position: absolute;
 	margin-top: -54px;
-	margin-left: 820px;
+	margin-right: 25px;
 }
 
 .sub-heading {
@@ -6177,4 +6176,5 @@ a.badge:focus {
 
 .logo {
 height:75px;
+width: 200px;	
 }
