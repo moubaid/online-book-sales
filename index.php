@@ -27,6 +27,8 @@
         padding: 14px 24px;
       }
     </style>
+		<script src="js/jquery-1.9.1.js"></script>
+	<script src="js/onlinebooksales.js"></script>
   </head>
 
   <body>
@@ -39,9 +41,15 @@
 		</div>
 		<div class="main-link pull-right">
 			<p>
-			<a href="#">login</a> / <a href="#">Register</a>
+			<a href="#" id="login" data-toggle="popover" data-placement="bottom" data-html="true">
+			Login</a>
+			/ 
+			<a href="#">
+			Register
+			</a>
 			</p>
 		</div>
+		</header>
         <div class="navbar navbar-inner">
               <ul class="nav">
                 <li class="active"><a href="index.php">Home</a></li>
@@ -53,7 +61,7 @@
 				<button class="btn" type="button">Search</button>
 			</div>
         </div><!-- /.navbar -->
-      </header>
+      
       <hr>
 
       <!-- Example row of columns -->
@@ -213,8 +221,10 @@
       </div>
 
     </div> <!-- /container -->
-	
-	<script src="js/jquery-1.9.1.js"></script>
-	<script src="js/onlinebookstore.js"></script>
+	<script>
+	var title = '<h4 align="center">Please sign in</h4>';
+	var cnt = '<form class="form-signin"><input type="text" class="input-block-level" placeholder="Email address"><input type="password" class="input-block-level" placeholder="Password"><label class="checkbox"><input type="checkbox" value="remember-me"> Remember me</label><button class="btn" type="submit">Sign in</button></form>';
+$("#login").popover({ title: title, content: cnt });
+	</script>
   </body>
 </html>
